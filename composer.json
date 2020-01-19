@@ -1,0 +1,15 @@
+{
+    "name": "juan/verso",
+    "description": "A simple web social network",
+    "authors": [
+        {
+            "name": "Choukas69",
+            "email": "juan.vlroo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "doctrine/annotations": "^1.8",
+        "php": ">=7.4.0"
+    }
+}
